@@ -1,0 +1,77 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Untitled Document</title>
+<link rel="stylesheet" href="css/estilo2.css" />
+</head>
+
+<body>
+	<div id="menu1"> <!-- div1 -->
+    	<div>
+    			<ul>
+        			<li>
+            			<a href="index.html">
+                			HOME 
+               			 </a>
+           			 </li>
+           			 <li align=>
+            			<a href="#">
+            				ABOUT ME
+              			  </a>
+           			 </li>
+           			 <li>
+            			<a href="#">
+            				PORTIFOLIO
+               			 </a>
+           			 </li>
+            		<li>
+            			<a href="#">
+            				CONTACT
+               		 </a>
+           		 </li>
+       		 </ul>
+   	 	</div>
+    </div>
+    <div id="linha"> <!-- div2 -->
+    
+    </div>
+    <div id="jason"> <!-- div3 -->
+    	<img src="img/Jason.png" />
+    </div>
+    <div id="aboutMe"> <!-- div4 -->
+    	<img class="titulo" src="img/ABOUT-ME.png" />
+       
+    </div>
+    <div id="texto"> <!-- div5 -->
+    	<div class="texto1">
+        	<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed </p>
+        
+         	<p> do eiusmod tempor incididunt ut labore et dolore magna </p>
+            
+            <p> aliqua. Ut enim ad minim veniam, quis nostrud exercitation </p>
+            
+            <p> ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
+            
+        	<p> Duis aute irure dolor in reprehenderit in voluptate velit esse </p>
+            
+ 			<p> cillum dolore eu fugiat nulla pariatur. </p>
+    	</div>
+    </div>
+    <div id="assinatura"> <!-- div6 -->
+    	<img src="img/JasonText.png" />
+    </div>
+    <div id="scroll"> <!-- div7 -->
+    	<ul>
+        	<li>
+            	KEEP SCROLLING, THERE IS STILL MORE TO COME.
+            </li>
+        </ul>
+    </div>
+    <div id="doubleArrow"> <!-- div8 -->
+     	<a href="#"> 
+        	<img src="img/arrow2.png" /> 
+        </a>  
+    </div>
+</body>
+</html>
